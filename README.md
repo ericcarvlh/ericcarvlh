@@ -37,6 +37,16 @@
   
   ![Snake animation](https://github.com/ericcarvlh/ericcarvlh/blob/output/github-contribution-grid-snake.svg)
   
+  <a href="https://instagram.com/ericcarvlh" target="_blank">
+    <img height="40" widht="120" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:ericv.carvalhoo@gmail.com">
+    <img height="40" widht="120" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/ericcarvlh" target="_blank">
+    <img height="40" widht="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  
 </div>
 
 
