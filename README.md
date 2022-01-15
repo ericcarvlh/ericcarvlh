@@ -1,4 +1,4 @@
-## Olá, como vai? Me chamo éric, prazer!👋
+## Olá, como vai? Me chamo Éric, prazer! 👋
 
 <img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/70/dc/0f/70dc0f3c93ed183f9b7a2e6e8f81f8a6.jpg">
 
@@ -6,12 +6,13 @@
 - 📫 Meu E-mail: ericv.carvalhoo@gmail.com
 - 🌱 Atualmente estou aprendendo a utilizar GitHub e Git para facilitar o processo de versionamento de meus projetos. Além disso estou revendo conceitos na linguagem SQL, utilizando os SGBDR's MySql, SQL Server (SSMS) e SQLite. Estou buscando me aprofundar em Java, .NET, JS, Node.js, Html e Css3 para adentrar em outras linguagens, sendo: <br>
 <div style="display: inline_block" align="center">
-<img alt="C-HTML" height="40" width="200" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img alt="C-HTML" height="40" width="120" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-<img alt="C-HTML" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
-<img alt="C-HTML" height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
-<img alt="C-HTML" height="40" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+<img alt="Eric-ReactNative" height="40" width="200" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+<img alt="Eric-React" height="40" width="120" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
+<img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
+<img alt="Eric-C" height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
+<img alt="Eric-C++" height="40" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
 </div>
+
 <hr>
 
 <div align="center">
@@ -23,11 +24,19 @@
 <hr>
   
 <div style="display: inline_block" align="center">
-  <img align="center" alt="Eric-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Eric-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eric-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Eric-.Net" height="30" width="40" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="Eric-.Net" height="40" width="90" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+  <img alt="Eric-Bootstrap" height="40" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img alt="Eric-MySql" height="40" width="120" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img alt="Eric-SQLite" height="40" width="120" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img alt="Eric-CSS3" height="40" width="120" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img alt="Eric-HTML5" height="40" width="120" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="Eric-JavaScript" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img alt="Eric-Java" height="40" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img alt="Eric-SQL-Server-SSMS" height="40" widht="220" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  
+  ![Snake animation](https://github.com/ericcarvlh/ericcarvlh/blob/output/github-contribution-grid-snake.svg)
+  
 </div>
- 
-![Snake animation](https://github.com/ericcarvlh/ericcarvlh/blob/output/github-contribution-grid-snake.svg)
+
 
