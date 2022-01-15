@@ -33,7 +33,7 @@
   <img alt="Eric-JavaScript" height="40" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img alt="Eric-Java" height="40" width="120" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-  <img alt="Eric-SQL-Server-SSMS" height="40" widht="220" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img alt="Eric-SQL-Server-SSMS" height="40" widht="200" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
   
   ![Snake animation](https://github.com/ericcarvlh/ericcarvlh/blob/output/github-contribution-grid-snake.svg)
   
