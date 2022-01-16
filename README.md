@@ -1,6 +1,6 @@
 ## Olá, como vai? Me chamo Éric, prazer! 👋
 
-<img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/736x/70/dc/0f/70dc0f3c93ed183f9b7a2e6e8f81f8a6.jpg">
+<img align="right" alt="Eric-pic" height="150" style="border-radius:50px;" src="https://pm1.narvii.com/6372/a885fd69911e3f40e6782211a1221f4873d61001_hq.jpg">
 
 - 🔭 Estudando para minha primeira oportunidade profissional.
 - 📫 Meu E-mail: ericv.carvalhoo@gmail.com
