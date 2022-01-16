@@ -47,6 +47,11 @@
     <img height="35" widht="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   
+  <h4>Quantidade de visitas recebidas em meu perfil :detective:</h4> 
+  <p align="center"> 
+    <img alingn="center" src="https://profile-counter.glitch.me/ericcarvlh/count.svg" />
+  </p>
+  
 </div>
 
 
