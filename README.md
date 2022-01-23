@@ -1,4 +1,4 @@
-<h1 align="center">
+<div align="center">
   <h1 align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=30&width=450&lines=Hello+there,+how+are+you?;My+name+is+Éric;Nice+to+meet+you+👋"/>
@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=ericcarvlh&label=Profile%20views&color=0e75b6&style=flat" alt="Éric Carvalho"/>
   </p>
     <img src="https://github-profile-trophy.vercel.app/?username=ericcarvlh&theme=dracula&column=7" alt="Eric-pic" height="150" style="border-radius:50px;"/>
-</h1>
+</div>
 
 <img align="right" alt="Coding.gif-Unknown-Artist" src="https://github.com/ericcarvlh/ericcarvlh/blob/main/coding.gif?raw=true" width="300" height="300"/>
   
