@@ -1,5 +1,6 @@
 <h1 align="center">
   <h1 align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
     <img src="https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=30&width=450&lines=Hello+there,+how+are+you?;My+name+is+Éric;Nice+to+meet+you+👋"
   </h1>
   <p align="center">
@@ -21,20 +22,18 @@
   <img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img alt="Eric-C" height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
   <img alt="Eric-C++" height="40" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 95%;">
 </div>
-
-
   
 <hr>
-
-<div align="center">
+  
+### :octocat: Meus status
+<table><tr>
   <a href="https://github.com/ericcarvlh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcarvlh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcarvlh&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ericcarvlh&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&border=DDDDDD"/>
-</div>
-    
+  <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=ericcarvlh&show_icons=true&count_private=true&include_all_commits=true&theme=dracula"/></td>
+  <td><img width="380px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcarvlh&layout=compact&theme=dracula"/></td>
+  <td><img width="400px" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=ericcarvlh&show_icons=true&locale=en&layout=compact&theme=dracula"/></td>
+</tr></table>  
+   
 <div style="display: inline_block" align="center">
   <img alt="Eric-.Net" height="40" width="90" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   <img alt="Eric-Bootstrap" height="40" width="120" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -58,6 +57,10 @@
   <a href="https://www.linkedin.com/in/ericcarvlh" target="_blank">
     <img height="35" widht="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/291020839657275392?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20eating%20a%20cookie.%20🍪)](https://discord.com/users/291020839657275392)
+
+
   
 </div>
   
@@ -85,6 +88,8 @@
     <img alt="" src="https://activity-graph.herokuapp.com/graph?username=ericcarvlh&theme=dracula"/>
   </div>
   
+  ![Alt](https://repobeats.axiom.co/api/embed/78b50450c2ec0c65ab03015e2889ee6cfa4103f4.svg "Repobeats analytics image")
+  
   <h4>Profile views :detective:</h4> 
   
   <p align="center"> 
@@ -94,9 +99,20 @@
   <img alt="" src="https://th.bing.com/th/id/R.71510fbbd17f57f1574cf7993ba73149?rik=AKbvzQeKN2q4Zg&pid=ImgRaw&r=0"/>
   
   <h2>
-    <p align="center">Traitor!!!</p>    
+    <p align="center">Traitor!!!</p> 
+    <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
   </h2>
   
 </div>
- 
+
+<!--
+<div align="center">
+  <a href="https://github.com/ericcarvlh">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcarvlh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcarvlh&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ericcarvlh&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&border=DDDDDD"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient"/>
+</div>
+
+-->
