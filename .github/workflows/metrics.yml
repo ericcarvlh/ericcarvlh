@@ -24,7 +24,10 @@ jobs:
 
           # Options
           user: ericcarvlh
-          template: classic
+          template: terminal
+          filename: metrics.terminal.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, metadata
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
@@ -89,3 +92,4 @@ jobs:
           plugin_tweets: yes
           plugin_tweets_limit: 2
           plugin_tweets_user: .user.twitter
+
