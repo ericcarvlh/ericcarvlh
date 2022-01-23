@@ -13,9 +13,7 @@
 </div>
 
 <img align="right" alt="Coding.gif-Unknown-Artist" src="https://github.com/ericcarvlh/ericcarvlh/blob/main/coding.gif?raw=true" width="300" height="300"/>
-  
-<img align="right" alt="Eric-User-Picture" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.m5AM8_p83LPm1lsacx7e6gHaEK?pid=ImgDet&rs=1">
-
+ 
 - 🔭 lsalçmkabnkdnakslndkadklndklansdnkandknkaslskdmalkdmldn.
 - 📫 Meu E-mail: ericv.carvalhoo@gmail.com
 - 🌱 skdnak jndna djknajk dnjksa njkd njk a n d jn s ajknd j kadnja kndjkn ajkdna jkndsjka ndjknajkndjk andjknajkd njksandjka njkdnja skndjka kdfnjksf ksdnfksnf klsdfnkl lksdfmfks skldfnklfn skldfnkfn klsdnf lnfsdlk  ajksdnsajkdaskjdnajksndjsnjknaksndjnsadnjkasndjnsajkdsnajkdnjaksndjsnkjndajkndjksandkjknjaskndjksandjknsakjdnasdnakdnjskd: <br>
