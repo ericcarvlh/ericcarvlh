@@ -21,9 +21,11 @@
   <img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img alt="Eric-C" height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
   <img alt="Eric-C++" height="40" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
-  <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
+  <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 95%;">
 </div>
 
+
+  
 <hr>
 
 <div align="center">
