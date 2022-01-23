@@ -9,7 +9,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ericcarvlh&theme=dracula&column=7" alt="Eric-pic" height="150" style="border-radius:50px;"/>
 </h1>
 <img align="right" alt="Coding-Unknown-Artist" src="https://github.com/ericcarvlh/ericcarvlh/blob/main/coding.gif?raw=true" width="300" height="300"/>
-
+  
 <img align="right" alt="Eric-User-Picture" height="150" style="border-radius:50px;" src="https://th.bing.com/th/id/OIP.m5AM8_p83LPm1lsacx7e6gHaEK?pid=ImgDet&rs=1">
 
 - 🔭 Estudando para minha primeira oportunidade profissional.
@@ -21,6 +21,7 @@
   <img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img alt="Eric-C" height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
   <img alt="Eric-C++" height="40" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
 </div>
 
 <hr>
@@ -69,13 +70,31 @@
 <div align="center">
 
 <img alt="Eric-GitHub-More-Info" src="https://metrics.lecoq.io/ericcarvlh?template=terminal&isocalendar=1&languages=1&stars=1&followup=1&people=1&projects=1&code=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&introduction=1&sponsors=1&pagespeed=1&tweets=1&stackoverflow=1&posts=1&rss=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars.limit=4&followup.sections=repositories&followup.indepth=false&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&projects.limit=4&projects.descriptions=false&code.lines=12&code.load=100&code.visibility=public&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&introduction.title=true&sponsors.sections=goal%2C%20about&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&stackoverflow.user=0&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&rss.limit=4&config.timezone=America%2FSao_Paulo"/>
+  
+  <img src="https://github.com/ericcarvlh/ericcarvlh/blob/main/profile-3d-contrib/profile-night-rainbow.svg"/>
  
-  <h4>Quantidade de visitas recebidas em meu perfil :detective:</h4> 
+  <p align="center"> 
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericcarvlh&theme=dracula"/> 
+  </p>
+
+  <div align="center">
+    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericcarvlh&theme=dracula"/>
+    <img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericcarvlh&theme=dracula"/>
+    <img alt="" src="https://activity-graph.herokuapp.com/graph?username=ericcarvlh&theme=dracula"/>
+  </div>
+  
+  <h4>Profile views :detective:</h4> 
   
   <p align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/ericcarvlh/count.svg" />
   </p>  
  
   <img alt="" src="https://th.bing.com/th/id/R.71510fbbd17f57f1574cf7993ba73149?rik=AKbvzQeKN2q4Zg&pid=ImgRaw&r=0"/>
-  <h2>Traitor!!!</h2>
+  
+  <h2>
+    <p align="center">Traitor!!!</p>    
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  </h2>
+  
 </div>
+ 
