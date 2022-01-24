@@ -24,7 +24,7 @@ jobs:
 
           # Options
           user: ericcarvlh
-          template: terminal
+          template: terminal, classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           plugin_achievements: yes
