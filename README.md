@@ -71,7 +71,7 @@
 
 <hr>
 
-<h2 align="center">Informações mais apuradas sobre meu GitHub</h2>
+<h2 align="center">More information about my GitHub</h2>
 
 <div align="center">
 
