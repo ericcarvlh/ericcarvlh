@@ -20,7 +20,7 @@ jobs:
           #  - read:org  (for organization related metrics)
           #  - read:user (for user related data)
           #  - repo      (optional, if you want to include private repositories)
-          token: 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
+          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: ericcarvlh
@@ -74,6 +74,7 @@ jobs:
           plugin_projects: yes
           plugin_projects_limit: 4
           plugin_repositories: 100
+          plugin_repositories: yes
           plugin_repositories_affiliations: owner
           plugin_repositories_batch: 100
           plugin_rss: yes
