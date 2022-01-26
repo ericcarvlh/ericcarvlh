@@ -60,6 +60,10 @@
   </a> 
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/291020839657275392?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20eating%20a%20cookie.%20🍪)](https://discord.com/users/291020839657275392)
+  
+  <a href="https://github.com/ericcarvlh">
+    <img alt="Eric-Steam-Profile" src="https://steam-stat.vercel.app/api?profileName=pezzocagamer" height="200">
+  </a>
 
 </div>
   
@@ -89,13 +93,16 @@
   <p align="center"> 
     <img alt="Contribution-In-The-Last-Year" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ericcarvlh&theme=dracula"/> 
   </p>
-
+  
   <div align="center">
     <img alt="Eric-GitHub-Status" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericcarvlh&theme=dracula"/>
     <img alt="Eric-Commits-Per-Day-Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericcarvlh&theme=dracula"/>
     <img alt="Eric-Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=ericcarvlh&theme=dracula"/>
   </div>
   
+  ![Fullbyte Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericcarvlh&theme=dracula)
+  ![Fullbyte Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericcarvlh&theme=dracula)
+    
   ![Alt](https://repobeats.axiom.co/api/embed/78b50450c2ec0c65ab03015e2889ee6cfa4103f4.svg "Repobeats analytics image")
   
   <h4>Profile views :detective:</h4> 
