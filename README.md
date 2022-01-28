@@ -27,7 +27,7 @@
   
 <hr>
   
-### :octocat: Meus status
+### :octocat: My stats
 <table><tr>
   <a href="https://github.com/ericcarvlh">
   <td><img alt="Eric's-GitHub-Stats" width="380px" align="left" src="https://github-readme-stats.vercel.app/api?username=ericcarvlh&show_icons=true&count_private=true&include_all_commits=true&theme=dracula"/></td>
