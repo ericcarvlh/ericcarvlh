@@ -122,14 +122,3 @@
   </h2>
   
 </div>
-
-<!--
-<div align="center">
-  <a href="https://github.com/ericcarvlh">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericcarvlh&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericcarvlh&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="http://github-readme-streak-stats.herokuapp.com?user=ericcarvlh&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=DD2727&border=DDDDDD"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&fontAlign=80&fontAlignY=40&color=gradient"/>
-</div>
-
--->
