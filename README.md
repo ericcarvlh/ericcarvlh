@@ -103,7 +103,7 @@
   ![Fullbyte Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericcarvlh&theme=dracula)
   ![Fullbyte Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ericcarvlh&theme=dracula)
     
-  ![Alt](https://repobeats.axiom.co/api/embed/78b50450c2ec0c65ab03015e2889ee6cfa4103f4.svg "Repobeats analytics image")
+  ![Alt](https://repobeats.axiom.co/api/embed/96a4485c12a685cd2161477e9ac97285ead671ca.svg "Repobeats analytics image")
   
   <h4>Profile views :detective:</h4> 
   
