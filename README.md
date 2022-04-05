@@ -18,8 +18,6 @@
 - 📫 Meu E-mail: ericv.carvalhoo@gmail.com
 - 🌱 Atualmente estou aprendendo a utilizar GitHub e Git para facilitar o processo de versionamento de meus projetos. Além disso estou revendo conceitos na linguagem SQL, utilizando os SGBDR's MySql, SQL Server (SSMS) e SQLite. Estou buscando me aprofundar em Java, JS, Node.js, Html e Css3 para adentrar em outras linguagens, sendo: <br>
 <div style="display: inline_block" align="center">
-  <img alt="Eric-ReactNative" height="40" width="200" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  <img alt="Eric-React" height="40" width="120" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
   <img alt="Eric-PHP" height="40" width="90" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> 
   <img alt="Eric-C" height="40" width="90" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 
   <img alt="Eric-C++" height="40" width="90" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
