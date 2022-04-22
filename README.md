@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-    <img src="https://readme-typing-svg.herokuapp.com?font=&color=%2302CC00&size=30&width=450&lines=Hello+there,+how+are+you?;My+name+is+Éric;Nice+to+meet+you+👋"/>
+    <img src="https://readme-typing-svg.herokuapp.com?color=A40000&size=30&width=450&lines=Hello+there,+how+are+you?;My+name+is+Éric;Nice+to+meet+you+👋"/>
   </h1>
   <p align="center">
     <img alt="Darth-Vader-Rogue-One-Final-Scene" src="https://th.bing.com/th/id/R.4dd6e8c1266d403f147ac25ec583e8cf?rik=FrfdrwcC11uDqA&pid=ImgRaw&r=0"/>
@@ -115,6 +115,9 @@
   
   <h2>
     <p align="center">Traitor!!!</p> 
+    <p align="center">
+      <img src="https://readme-typing-svg.herokuapp.com?color=A40000&size=30&width=400&lines=Coding+like+a+Sith!;With+unlimited+power.+😈"/>
+    </p>
     <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
   </h2>
