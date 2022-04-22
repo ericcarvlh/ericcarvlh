@@ -116,7 +116,7 @@
   <h2>
     <p align="center">Traitor!!!</p> 
     <p align="center">
-      <img src="https://readme-typing-svg.herokuapp.com?color=A40000&size=30&width=400&lines=Coding+like+a+Sith!;With+unlimited+power.+😈"/>
+      <img src="https://readme-typing-svg.herokuapp.com?color=A40000&size=30&width=400&lines=Coding+like+a+sith!;With+unlimited+power.+😈"/>
     </p>
     <img src="https://user-images.githubusercontent.com/49248449/144116426-307bc795-ce75-4690-9cb1-4a0a3a258647.png" style="max-width: 100%;">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
