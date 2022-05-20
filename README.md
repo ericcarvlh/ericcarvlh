@@ -1,14 +1,9 @@
 <div align="center">
   <h1 align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=A40000&size=30&width=450&lines=Hello+there,+how+are+you?;My+name+is+Éric;Nice+to+meet+you+👋"/>
-    <img src="https://readme-typing-svg.herokuapp.com?color=A40000&size=30&width=450&lines=My+name+is+Éric;Nice+to+meet+you+👋"/>
   </h1>
   <p align="center">
     <img alt="Darth-Vader-Rogue-One-Final-Scene" src="https://th.bing.com/th/id/R.4dd6e8c1266d403f147ac25ec583e8cf?rik=FrfdrwcC11uDqA&pid=ImgRaw&r=0"/>
-  </p>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ericcarvlh&label=Profile%20views&color=0e75b6&style=flat" alt="Éric Carvalho"/>
   </p>
     <img src="https://github-profile-trophy.vercel.app/?username=ericcarvlh&theme=dracula&column=7" alt="Eric-pic" height="150" style="border-radius:50px;"/>
 </div>
