@@ -3,7 +3,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
   </h1>
   <p align="center">
-    <img alt="Darth-Vader-Rogue-One-Final-Scene"  heigth = "60%" width = "60%" src="https://th.bing.com/th/id/R.4dd6e8c1266d403f147ac25ec583e8cf?rik=FrfdrwcC11uDqA&pid=ImgRaw&r=0"/>
+    <img alt="Darth-Vader-Rogue-One-Final-Scene" src="https://th.bing.com/th/id/R.4dd6e8c1266d403f147ac25ec583e8cf?rik=FrfdrwcC11uDqA&pid=ImgRaw&r=0"/>
   </p>
     <img src="https://github-profile-trophy.vercel.app/?username=ericcarvlh&theme=dracula&column=7" alt="Eric-pic" height="150" style="border-radius:50px;"/>
 </div>
