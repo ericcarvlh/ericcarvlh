@@ -8,7 +8,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ericcarvlh&theme=dracula&column=7" alt="Eric-pic" height="150" style="border-radius:50px;"/>
 </div>
 
-<img align="right" alt="Coding.gif-Unknown-Artist" src="https://github.com/ericcarvlh/ericcarvlh/blob/main/coding.gif?raw=true" width="300" height="300"/>
+<!--img align="right" alt="Coding.gif-Unknown-Artist" src="https://github.com/ericcarvlh/ericcarvlh/blob/main/coding.gif?raw=true" width="300" height="300"/-->
  
 - 🔭 Estudando para minha primeira oportunidade profissional.
 - 📫 Meu E-mail: ericv.carvalhoo@gmail.com
