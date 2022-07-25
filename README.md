@@ -55,7 +55,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/291020839657275392?theme=dark&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20eating%20a%20cookie.%20🍪)](https://discord.com/users/291020839657275392)
   
   <a href="https://github.com/ericcarvlh">
-    <img alt="Eric-Steam-Profile" src="https://steam-stat.vercel.app/api?profileName=pezzocagamer" height="200">
+    <img alt="Eric-Steam-Profile" src="https://steam-stat.vercel.app/api?profileName=ericcarvlh" height="200">
   </a>
 
 </div>
