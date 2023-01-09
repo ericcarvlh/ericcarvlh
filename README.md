@@ -81,7 +81,6 @@
   <div align="center">
     <img alt="Eric-GitHub-Status" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ericcarvlh&theme=dracula"/>
     <img alt="Eric-Commits-Per-Day-Hour" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ericcarvlh&theme=dracula"/>
-    <!--img alt="Eric-Contribution-Graph" src="https://activity-graph.herokuapp.com/graph?username=ericcarvlh&theme=dracula"/-->
   </div>
   
   ![Fullbyte Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ericcarvlh&theme=dracula)
