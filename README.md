@@ -130,7 +130,7 @@
 
 <div align="center">
 
-![Eric Steam Profile][steam-presence]
+<div style="padding-top:47.368%;position:relative;"><iframe src="https://gifer.com/embed/WPl3" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
 
 </div>
 
@@ -157,9 +157,7 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
 
 </details>
 
-<br><br>
-
-<img src="https://i.gifer.com/WPl3.gif"/>
+![sla](https://i.gifer.com/WPl3.gif)
 
 <h4 align="center">Profile views :detective:</h4> 
 <br>
