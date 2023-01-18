@@ -4,7 +4,7 @@
   </p>
   <p align="center">
     <!--credits for the banner: https://github.com/sagar-viradiya/sagar-viradiya-->
-    <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" width="550px" alt="android banner hello world">
+    <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="android banner hello world">
   </p>
 </div>
 
@@ -159,9 +159,7 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
 
 <br><br>
 
-<img src="https://i.gifer.com/WPl3.gif">
-
-<br><br>
+<img src="https://i.gifer.com/WPl3.gif"/>
 
 <h4 align="center">Profile views :detective:</h4> 
 <br>
