@@ -25,9 +25,9 @@
 
 </div>
 
-<p align="center">
+<!--<p align="center">
     <img alt="Darth-Vader-Rogue-One-Final-Scene" width="400px" src="https://th.bing.com/th/id/R.4dd6e8c1266d403f147ac25ec583e8cf?rik=FrfdrwcC11uDqA&pid=ImgRaw&r=0"/>
-</p>
+</p>-->
 
 <br><br>
 
