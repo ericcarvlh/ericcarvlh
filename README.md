@@ -48,6 +48,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50px"/>
     </div>
+    <br>
+    <hr>
 </details>
 
 <details>
@@ -72,6 +74,8 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50px"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50px"/>
     </div>
+    <br>
+    <hr>
 </details>
 
 <details>
@@ -99,6 +103,8 @@
         <br>
         <img alt="" src="https://github-readme-activity-graph.cyclic.app/graph?username=ericcarvlh&theme=dracula" width="530px"/>
     </div>
+    <br>
+    <hr>
 </details>
 
 <details>
@@ -117,7 +123,7 @@
         <img alt="ericcarvlh's Spotify" width="50px" src="https://camo.githubusercontent.com/15d4e1b8bf3ed25b7131cc93f248f86cc42deaf9e19fdb61aa1ba3b46e0400a5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f73706f746966792e737667" />
         </a>
         <br>
-<a href="https://www.google.com/maps/place/B.B+Sightseeing/@35.1019754,-107.1603843,3a,75y,93.1h,76.99t/data=!3m8!1e1!3m6!1sAF1QipPhvlLLO5eTMBAGZACWyi8Y7jVqudFSHjE_Am-0!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPhvlLLO5eTMBAGZACWyi8Y7jVqudFSHjE_Am-0%3Dw203-h100-k-no-pi0-ya340-ro-0-fo100!7i6720!8i3360!4m13!1m7!3m6!1s0x0:0x6b0e5dd119bd60ac!2zMzXCsDA2JzA3LjUiTiAxMDfCsDA4JzE1LjUiVw!3b1!8m2!3d35.102075!4d-107.137649!3m4!1s0x8722493aac9a20db:0x8502ca29b24d0cd3!8m2!3d35.1017348!4d-107.1375646">
+        <a href="https://www.google.com/maps/place/B.B+Sightseeing/@35.1019754,-107.1603843,3a,75y,93.1h,76.99t/data=!3m8!1e1!3m6!1sAF1QipPhvlLLO5eTMBAGZACWyi8Y7jVqudFSHjE_Am-0!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPhvlLLO5eTMBAGZACWyi8Y7jVqudFSHjE_Am-0%3Dw203-h100-k-no-pi0-ya340-ro-0-fo100!7i6720!8i3360!4m13!1m7!3m6!1s0x0:0x6b0e5dd119bd60ac!2zMzXCsDA2JzA3LjUiTiAxMDfCsDA4JzE1LjUiVw!3b1!8m2!3d35.102075!4d-107.137649!3m4!1s0x8722493aac9a20db:0x8502ca29b24d0cd3!8m2!3d35.1017348!4d-107.1375646">
         <img alt="Googles's easter eggs" width="50px" src="https://camo.githubusercontent.com/3366ce6a8b3054ce809c1bdd35ee75416db2659b333502d89c28bd6bfc551c35/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676f6f676c655f6d6170732e737667" />
         </a>
         <a href="https://steamcommunity.com/id/ericcarvlh/">
@@ -127,11 +133,8 @@
         <img alt="ericcarvlh's Gmail" width="50px" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" />
         </a>
     </p>
-
-<div align="center">
-
-</div>
-
+    <br>
+    <hr>
 </details>
 
 
@@ -152,14 +155,17 @@ currently_learning: ["Computer Vision", "Data Analytics", "Back-End Foundations"
 will_learn: ["Data Science", "Basic Web Development"]
 hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
 ```
-
+<br>
+<hr>
 </details>
 
 <details>
     <summary><b>🔎&nbsp;&nbsp;A&nbsp;Fact&nbsp;About&nbsp;Me</b></summary>
-    <p align="center">
+    <br>
+    <h2 align="center">
         I really like <b>listening to music</b>.
-    </p>
+    </h2>
+    <br>
     <div align="center">
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)
@@ -167,7 +173,8 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
 <!--credits: https://github.com/JeffreyCA/spotify-recently-played-readme-->
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21dlm6paeqca436e5z3xvkvbi&count=10)
     </div>
-
+    <br>
+    <hr>
 </details>
 
 <br>
