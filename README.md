@@ -163,6 +163,9 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
     <div align="center">
 
 ![https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)
+    <br>
+<!--credits: https://github.com/JeffreyCA/spotify-recently-played-readme-->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=21dlm6paeqca436e5z3xvkvbi&count=10)
     </div>
 
 </details>
