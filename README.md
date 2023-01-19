@@ -162,7 +162,7 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
     </p>
     <div align="center">
 
-![https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&cover_image=true&theme=compact&show_offline=true&background_color=000000)
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color_cover=true)
     </div>
 
 </details>
