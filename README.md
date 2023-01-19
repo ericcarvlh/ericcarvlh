@@ -155,10 +155,22 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
 
 </details>
 
+<details>
+    <summary><b>🔎&nbsp;&nbsp;A&nbsp;Fact&nbsp;About&nbsp;Me</b></summary>
+    <p align="center">
+        I really like <b>listening to music</b>.
+    </p>
+    <div align="center">
+
+![https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&redirect=true](https://spotify-github-profile.vercel.app/api/view.svg?uid=21dlm6paeqca436e5z3xvkvbi&cover_image=true&theme=compact&show_offline=true&background_color=000000)
+    </div>
+
+</details>
+
 <br>
 
 <div align="center">
-  <img src="https://techrorschach.com/wp-content/uploads/2021/01/T-Rex_Game_hack.gif"/>
+    <img src="https://techrorschach.com/wp-content/uploads/2021/01/T-Rex_Game_hack.gif"/>
 </div>
 
 <br>
