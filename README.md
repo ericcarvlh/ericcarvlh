@@ -136,7 +136,7 @@
 
 
 <details>
-    <summary><b>👨‍💻&nbsp;&nbsp;CLI&nbsp;Information&nbsp;About&nbsp;Me</b></summary>
+    <summary><b>👨‍💻&nbsp;&nbsp;CLI&nbsp;With&nbsp;Information&nbsp;About&nbsp;Me</b></summary>
     <br> 
 
 ```yaml
