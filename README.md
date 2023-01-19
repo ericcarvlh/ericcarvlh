@@ -177,6 +177,20 @@ hobbies: ["Movies", "Tv Shows", "Cinema", "Competitive Gaming", "Read", "Gym"]
     <hr>
 </details>
 
+<details>
+  <summary><b>😂&nbsp;&nbsp;Meme&nbsp;Time</b></summary>
+  <div align="center">
+    <h2><b>Random</b>memes :)</h2>
+    <br>
+    <img src="https://web-production-4cea.up.railway.app/" width="260px"/>
+    <br>
+    <h2>And and a little <b>tip</b></h2>
+    <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="350px"/>
+    <br>
+    <hr>
+  </div>
+</details>
+
 <br>
 
 <div align="center">
