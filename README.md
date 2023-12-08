@@ -9,7 +9,7 @@
 </div>
 
 
-- 🔭 Estudando para minha primeira oportunidade profissional.
+<!-- - 🔭 Estudando para minha primeira oportunidade profissional. -->
 <!-- 📫 Meu E-mail: -->
 - 🌱 Atualmente estou aprendendo a utilizar GitHub e Git para facilitar o processo de versionamento de meus projetos. Além disso estou revendo conceitos na linguagem SQL, utilizando os SGBDR's MySql, SQL Server (SSMS) e SQLite. Estou buscando me aprofundar em Java, JS, Html e Css3 para adentrar em outras linguagens, sendo: <br>
 <div style="display: inline_block" align="center">
